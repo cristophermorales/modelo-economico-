@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\deber2\Mi Clase\Mi Clase\bin\Debug\Mi Clase.exe.config
+C:\Users\Usuario\Desktop\deber2\Mi Clase\Mi Clase\bin\Debug\Mi Clase.exe
+C:\Users\Usuario\Desktop\deber2\Mi Clase\Mi Clase\bin\Debug\Mi Clase.pdb
+C:\Users\Usuario\Desktop\deber2\Mi Clase\Mi Clase\obj\Debug\Mi Clase.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\deber2\Mi Clase\Mi Clase\obj\Debug\Mi Clase.exe
+C:\Users\Usuario\Desktop\deber2\Mi Clase\Mi Clase\obj\Debug\Mi Clase.pdb
